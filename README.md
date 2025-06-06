@@ -5,8 +5,8 @@ Built with an XGBoost classifier (~98% ROC-AUC), and deployed as an interactive 
 This project demonstrates the complete ML workflow — from data preprocessing to model deployment.
 
 🚀 Demo
-👉 Deployed App: [Add your Streamlit app link here]
-👉 GitHub Repo: [your GitHub repo link here]
+👉 Deployed App: [https://hmuissl9cvjhpfvyrndmnj.streamlit.app/e]
+👉 GitHub Repo: [https://github.com/Abishekkk0109/Heart-Stroke-Prediction-]
 
 🏆 Project Highlights
 ✅ Built an XGBoost model for stroke risk prediction
